@@ -3,7 +3,7 @@
       <nav class="flex align-center justify-between p-3">
           <div class=""><nuxt-link to="/">NB</nuxt-link></div>
           <div class="">
-              <nuxt-link to="/Blog">Blog</nuxt-link>
+              <nuxt-link to="/blog">Blog</nuxt-link>
           </div>
       </nav>
   </header>
@@ -15,7 +15,7 @@ export default {
         return {
             links: [
                 {text: "NB", to: "/", left: true},
-                {text: "Blog", to: "/Blog", left: false},
+                {text: "Blog", to: "/blog", left: false},
             ]
         }
     }
