@@ -12,7 +12,7 @@
     "@nuxtjs/axios": "^5.12.2",
     "@tailwindcss/typography": "^0.3.1",
     "@tryghost/content-api": "^1.4.10",
-    "autoprefixer": "^10.0.2",
+    "autoprefixer": "^10.3.2",
     "core-js": "^3.6.5",
     "nuxt": "^2.14.6",
     "postcss": "^8.1.10",
