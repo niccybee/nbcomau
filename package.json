@@ -13,7 +13,7 @@
     "@tailwindcss/typography": "^0.3.1",
     "@tryghost/content-api": "^1.4.10",
     "autoprefixer": "^10.0.2",
-    "core-js": "^3.6.5",
+    "core-js": "^3.20.2",
     "nuxt": "^2.14.6",
     "postcss": "^8.1.10",
     "tailwindcss": "^2.0.1"
